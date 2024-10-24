@@ -1,8 +1,11 @@
+import Services from "./Services"
 
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <Services />
+    </div>
   )
 }
 
